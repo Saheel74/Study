@@ -1,1 +1,2 @@
-﻿This line was edited in branch eishwari for merge conflict test.
+This line was edited in branch eishwari for merge conflict test.
+
