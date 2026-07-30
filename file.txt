@@ -1,11 +1,8 @@
-<<<<<<< HEAD
-eugri
-jronb
-koijm
+
 jinbrgbm
 
 how r u
-=======
+
 This line was edited in branch eishwari for merge conflict test.
 
->>>>>>> 732872190f4c3bdbd6dca47106cdc0ae850af570
+
